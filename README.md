@@ -15,26 +15,6 @@
   - 근거를 기반으로 의사결정을 내려요.
   - 피드백을 능동적으로 반영하고, 팀의 성과를 극대화하려는 협력 태도를 가지고 있어요.
 
-```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryBorderColor': '#ffffff',
-      'pieStrokeWidth': '0px',
-      'pieOuterStrokeWidth': '0px',
-      'pieLegendTextColor': '#3c3c43'
-    }
-  }
-}%%
-pie
-    "기술적 강점 (Technical Strengths)": 24.81
-    "소프트 스킬 (Soft Skills)": 19.38
-    "협업 능력 (Collaboration Skills)": 17.05
-    "학습 및 성장 능력 (Learning and Growth Skills)": 13.18
-    "문제 해결 능력 (Problem-Solving Skills)": 11.63
-```
-
 <br/>
 
 
