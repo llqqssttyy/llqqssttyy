@@ -4,7 +4,7 @@
 
 ## 💪 My Strength
 
-> 4개월 동안 제 코드를 리뷰해주신 리뷰어와 페어 프로그래밍한 동료들에게 받은 피드백을 바탕으로 작성된 차트 입니다. 구체적인 내용은 [여기](https://github.com/llqqssttyy/llqqssttyy/blob/main/FEEDBACKS.md)에서 확인해보실 수 있습니다.
+> 4개월 동안 제 코드를 리뷰해주신 리뷰어와 페어 프로그래밍한 동료들에게 받은 피드백을 바탕으로 작성되었습니다. 구체적인 내용은 [여기](https://github.com/llqqssttyy/llqqssttyy/blob/main/FEEDBACKS.md)에서 확인해보실 수 있습니다.
 
 - 🌱 기술적 강점
   - 컨벤션에 따라 일관성 있고, 읽기 쉬운 코드를 작성해요.
