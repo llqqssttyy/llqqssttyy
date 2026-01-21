@@ -1,4 +1,4 @@
-<img src="https://git-bubble.vercel.app/api/bubble?tags=%EB%AC%B4%EA%B2%81%EA%B2%8C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0+%EA%B0%80%EB%B3%8D%EA%B2%8C+%EA%B2%B0%EC%A0%95%ED%95%98%EA%B8%B0&mode=text&title=motto&theme=light&direction=right&profileUrl=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2Faa929f5b-be75-42c2-ade4-59288bd2f4a0.jpg&animation=float&width=360&fontSize=12" />
+<img src="https://git-bubble.vercel.app/api/bubble?tags=%EB%AC%B4%EA%B2%81%EA%B2%8C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0+%EA%B0%80%EB%B3%8D%EA%B2%8C+%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0&mode=text&title=motto&theme=light&direction=left&profileUrl=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F62feb63c-1eb3-4b6f-a939-b72f533f34eb.jpg&width=400&fontSize=12" />
 
 <img src="https://git-bubble.vercel.app/api/divider?style=sparkles&color=%23FFE66D&animation=true&width=480&theme=light&size=1.5" />
 
@@ -23,10 +23,6 @@
   - 피드백을 능동적으로 반영하고, 팀의 성과를 극대화하려는 협력 태도를 가지고 있어요.
 
 <br/>
-
-
-### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 <img src="https://git-bubble.vercel.app/api/divider?style=sparkles&color=%23FFE66D&animation=true&width=480&theme=light&size=1.5" />
 
