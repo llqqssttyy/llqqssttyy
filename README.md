@@ -11,6 +11,4 @@
 
 <br/>
 
-<img src="https://git-bubble.vercel.app/api/divider?style=sparkles&color=%23FFE66D&animation=true&width=480&theme=light&size=1.5" />
-
 <img src="https://git-bubble.vercel.app/api/village?username=llqqssttyy&width=600&height=200&theme=light&lang=ko" />
